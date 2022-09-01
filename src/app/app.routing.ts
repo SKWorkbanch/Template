@@ -42,6 +42,7 @@ const routes: Routes =[
     RouterModule.forRoot(routes,{
       useHash: true
     })
+    // RouterModule.forRoot(routes)
   ],
   exports: [
   ],
